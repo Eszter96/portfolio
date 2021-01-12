@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0d59cdf0.chunk.css",
-    "main.js": "/portfolio/static/js/main.266ebb27.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.266ebb27.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.a77ef800.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a77ef800.js.map",
+    "main.css": "/portfolio/static/css/main.4d4d36d2.chunk.css",
+    "main.js": "/portfolio/static/js/main.6b7adf14.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6b7adf14.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c7f0097a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c7f0097a.js.map",
     "static/js/2.119cc695.chunk.js": "/portfolio/static/js/2.119cc695.chunk.js",
     "static/js/2.119cc695.chunk.js.map": "/portfolio/static/js/2.119cc695.chunk.js.map",
-    "static/js/3.7f1cf0e7.chunk.js": "/portfolio/static/js/3.7f1cf0e7.chunk.js",
-    "static/js/3.7f1cf0e7.chunk.js.map": "/portfolio/static/js/3.7f1cf0e7.chunk.js.map",
+    "static/js/3.9d76aa17.chunk.js": "/portfolio/static/js/3.9d76aa17.chunk.js",
+    "static/js/3.9d76aa17.chunk.js.map": "/portfolio/static/js/3.9d76aa17.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.0d59cdf0.chunk.css.map": "/portfolio/static/css/main.0d59cdf0.chunk.css.map",
+    "static/css/main.4d4d36d2.chunk.css.map": "/portfolio/static/css/main.4d4d36d2.chunk.css.map",
     "static/js/2.119cc695.chunk.js.LICENSE.txt": "/portfolio/static/js/2.119cc695.chunk.js.LICENSE.txt",
+    "static/media/amacord_08.f2daa964.jpg": "/portfolio/static/media/amacord_08.f2daa964.jpg",
     "static/media/artwork01.f8ddfa8b.png": "/portfolio/static/media/artwork01.f8ddfa8b.png",
     "static/media/artwork02.aba6705c.png": "/portfolio/static/media/artwork02.aba6705c.png",
     "static/media/artwork03.ba9ef0fe.png": "/portfolio/static/media/artwork03.ba9ef0fe.png",
     "static/media/artwork04.3f7ca42d.png": "/portfolio/static/media/artwork04.3f7ca42d.png",
+    "static/media/bidmaster_06.512e251e.jpg": "/portfolio/static/media/bidmaster_06.512e251e.jpg",
+    "static/media/borsodfestek_09.cfe0afde.jpg": "/portfolio/static/media/borsodfestek_09.cfe0afde.jpg",
     "static/media/cutterart_03.4c87ae85.jpg": "/portfolio/static/media/cutterart_03.4c87ae85.jpg",
     "static/media/cvkep.f0684056.png": "/portfolio/static/media/cvkep.f0684056.png",
     "static/media/hoopwines_01.3ed8fa5b.jpg": "/portfolio/static/media/hoopwines_01.3ed8fa5b.jpg",
@@ -35,13 +38,15 @@
     "static/media/product03.1bc586e2.png": "/portfolio/static/media/product03.1bc586e2.png",
     "static/media/product04.460f9178.png": "/portfolio/static/media/product04.460f9178.png",
     "static/media/rozsabimbo.a12d9d8c.png": "/portfolio/static/media/rozsabimbo.a12d9d8c.png",
+    "static/media/rozsabimbo_04.2c5720be.jpg": "/portfolio/static/media/rozsabimbo_04.2c5720be.jpg",
     "static/media/rustica_02.9fdcf2d8.jpg": "/portfolio/static/media/rustica_02.9fdcf2d8.jpg",
-    "static/media/Home.css": "/portfolio/static/media/waveorange.9e25e74f.png"
+    "static/media/Home.css": "/portfolio/static/media/waveorange.9e25e74f.png",
+    "static/media/wipeit_07.cf20f08e.jpg": "/portfolio/static/media/wipeit_07.cf20f08e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a77ef800.js",
+    "static/js/runtime-main.c7f0097a.js",
     "static/js/2.119cc695.chunk.js",
-    "static/css/main.0d59cdf0.chunk.css",
-    "static/js/main.266ebb27.chunk.js"
+    "static/css/main.4d4d36d2.chunk.css",
+    "static/js/main.6b7adf14.chunk.js"
   ]
 }
