@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.92fdb4e5.chunk.css",
-    "main.js": "/portfolio/static/js/main.1bfdd9f5.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1bfdd9f5.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.f0b2b242.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f0b2b242.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a606b4ab.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a606b4ab.js.map",
     "static/js/2.6b8c87fb.chunk.js": "/portfolio/static/js/2.6b8c87fb.chunk.js",
@@ -33,7 +33,7 @@
     "static/media/logo02.194cf73c.png": "/portfolio/static/media/logo02.194cf73c.png",
     "static/media/logo03.16957a3f.png": "/portfolio/static/media/logo03.16957a3f.png",
     "static/media/logo04.34a9dc21.png": "/portfolio/static/media/logo04.34a9dc21.png",
-    "static/media/meseloajandek.230e5c9f.jpg": "/portfolio/static/media/meseloajandek.230e5c9f.jpg",
+    "static/media/meseloajandek.760eb4bc.jpg": "/portfolio/static/media/meseloajandek.760eb4bc.jpg",
     "static/media/nectaris_05.a8e33151.jpg": "/portfolio/static/media/nectaris_05.a8e33151.jpg",
     "static/media/pat01.42c7d12a.jpg": "/portfolio/static/media/pat01.42c7d12a.jpg",
     "static/media/pat02.572dca1b.jpg": "/portfolio/static/media/pat02.572dca1b.jpg",
@@ -74,6 +74,6 @@
     "static/js/runtime-main.a606b4ab.js",
     "static/js/2.6b8c87fb.chunk.js",
     "static/css/main.92fdb4e5.chunk.css",
-    "static/js/main.1bfdd9f5.chunk.js"
+    "static/js/main.f0b2b242.chunk.js"
   ]
 }
